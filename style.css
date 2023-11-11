@@ -1,0 +1,55 @@
+body {
+    background-color: #0a0b0a;
+    color: white;
+    font-size: 36px;
+}
+.text1 {
+    color: #EB2A2A;
+    font-size: 96px;
+    font-weight: 700;
+}
+.text2 {
+    color: #ED9B20;
+    font-size: 64px;
+}
+.text3 {
+    color: #E7C61B;
+    font-size: 48px;
+}
+.text4 {
+    color: #35C91C;
+    font-size: 40px;
+}
+.text5 {
+    color: #13B5CB;
+    font-size: 36px;
+    font-weight: 700;
+}
+.text6 {
+    color: #B53CDF;
+    font-size: 32px;
+}
+.text7 {
+    font-size: 36px;
+    color: white;
+}
+.text8 {
+    font-size: 36px;
+    color: #FFED00;
+    font-style: italic;
+}
+.text9 {
+    font-size: 36px;
+    color: #EB2A2A;
+    }
+.text10 {
+    font-size: 36px;
+    color:  #13B5CB;
+    }
+.text11 {
+    font-size: 36px;
+    color: #35C91C;
+    font-style: italic;
+    }
+    
+
